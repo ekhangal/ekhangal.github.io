@@ -1,0 +1,6 @@
+.bg-position {
+    position: absolute;
+    width: 48rem;
+    height: 48rem;
+    z-index: -1;
+}
