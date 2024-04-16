@@ -31,6 +31,6 @@ Here are some of the my personal projects I have worked on:
 
 1. [Spellcheck.mn - Browser Extension](/projects/spellcheck.mn)
 2. [S3 Download - GitHub Action](/projects/s3-download-action)
-3. [Our Little Kosmos](/projects/our-little-kosmos)
+3. [OurLittleKosmos.tech](/projects/our-little-kosmos)
 
 Feel free to explore my blog and get in touch if you have any questions or collaboration opportunities!
