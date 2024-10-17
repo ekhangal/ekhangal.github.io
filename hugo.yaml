@@ -61,7 +61,7 @@ params:
     enabled: true # needs to be explicitly set
     title: Khangal Enkhsaikhan
     subtitle: "SRE/DevOps Engineer · CTF Player"
-    imageUrl: "sad-tux.png"
+    imageUrl: "mona.gif"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
