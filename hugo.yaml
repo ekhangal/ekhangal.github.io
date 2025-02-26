@@ -60,7 +60,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Khangal Enkhsaikhan
-    subtitle: "SRE/DevOps Engineer · CTF Player"
+    subtitle: "SRE/DevOps Engineer · Cybersecurity Enthusiast · CTF Player"
     imageUrl: "mona.gif"
     imageWidth: 120
     imageHeight: 120
