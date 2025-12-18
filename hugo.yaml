@@ -68,6 +68,8 @@ params:
     buttons:
       - name: posts
         url: posts
+      - name: resume
+        url: resume.pdf
       - name: projects
         url: projects
 
